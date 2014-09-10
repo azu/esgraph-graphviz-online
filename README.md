@@ -2,7 +2,7 @@
 
 * [JS Code to graphviz](http://azu.github.io/esgraph-graphviz-online/ "JS Code to graphviz")
 
-This project demo of these.
+This project is demo of these library.
 
 * [Swatinem/esgraph](https://github.com/Swatinem/esgraph "Swatinem/esgraph")
 * [mdaines/viz.js](https://github.com/mdaines/viz.js "mdaines/viz.js")
